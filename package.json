@@ -1,0 +1,25 @@
+{
+  "name": "back-to-top",
+  "version": "1.0.0",
+  "description": "Back to top button component",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "back",
+    "js",
+    "tool",
+    "top",
+    "utility"
+  ],
+  "author": "raccoonette",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MopicMP/back-to-top.git"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
